@@ -1,5 +1,5 @@
 public class FloatLearn {
-  public static void main(String[] arg) {
+  public static void main(String[] args) {
     float a = .123F; // float后面带F
     double b = 2.345; // 默认 double
     double c = 5.2e2; // 科学记数法
